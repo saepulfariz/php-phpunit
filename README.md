@@ -12,3 +12,5 @@
     - vendor\bin\phpunit.bat tests (CMD/PowerShell)
     - ./vendor/bin/phpunit tests --testdox --colors=always (Git Bash)
     - composer test
+
+    - vendor/bin/phpunit tests/phase1/learning/DiscountPriceProductTest.php (Git Bash/PowerShell)
